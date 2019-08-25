@@ -4,6 +4,13 @@ curl 'https://www.brownbearsw.com/cal/mband?Format=rss;Op=RSS' -H 'User-Agent: M
 
 grep "<title>" calinfo.txt > cleaninfo.txt
 
+if [ -f events.txt ]
+then
+    rm events.txt
+fi
+
+
 for ((i=0; i<$1;i++)); do date -d "+$i day" | cut -b 5-10  |grep -f - calinfo.txt | grep title >> events.txt; done
+
 
 exit 0

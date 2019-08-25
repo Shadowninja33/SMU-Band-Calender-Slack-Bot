@@ -24,8 +24,8 @@
 </item>
 <item>
 <title>Aug 27 - 7:30pm-9:00pm - MARCHING REHEARSAL</title>
-<link>https://www.brownbearsw.com/cal/mband?EventID=59983927;Date=2019-08-27</link>
-<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?EventID=59983927;Date=2019-08-27</guid>
+<link>https://www.brownbearsw.com/cal/mband?Date=2019-08-27;EventID=59983927</link>
+<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?Date=2019-08-27;EventID=59983927</guid>
 <pubDate>Tue, 27 Aug 2019 19:30:00 GMT</pubDate>
 </item>
 <item>
@@ -36,8 +36,8 @@
 </item>
 <item>
 <title>Aug 28 - 1:00pm-1:45pm - Playing Rehearsal - MBH</title>
-<link>https://www.brownbearsw.com/cal/mband?Date=2019-08-28;EventID=60393477</link>
-<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?Date=2019-08-28;EventID=60393477</guid>
+<link>https://www.brownbearsw.com/cal/mband?EventID=60393477;Date=2019-08-28</link>
+<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?EventID=60393477;Date=2019-08-28</guid>
 <pubDate>Wed, 28 Aug 2019 13:00:00 GMT</pubDate>
 </item>
 <item>
@@ -66,8 +66,8 @@
 </item>
 <item>
 <title>Aug 30 - 1:00pm-1:45pm - Playing Rehearsal - MBH</title>
-<link>https://www.brownbearsw.com/cal/mband?Date=2019-08-30;EventID=60393477</link>
-<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?Date=2019-08-30;EventID=60393477</guid>
+<link>https://www.brownbearsw.com/cal/mband?EventID=60393477;Date=2019-08-30</link>
+<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?EventID=60393477;Date=2019-08-30</guid>
 <pubDate>Fri, 30 Aug 2019 13:00:00 GMT</pubDate>
 </item>
 <item>
@@ -78,8 +78,8 @@
 </item>
 <item>
 <title>Sep 2 - LABOR DAY HOLIDAY - NO CLASSES</title>
-<link>https://www.brownbearsw.com/cal/mband?Date=2019-09-02;EventID=59519756</link>
-<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?Date=2019-09-02;EventID=59519756</guid>
+<link>https://www.brownbearsw.com/cal/mband?EventID=59519756;Date=2019-09-02</link>
+<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?EventID=59519756;Date=2019-09-02</guid>
 <pubDate>Mon, 02 Sep 2019 00:00:00 GMT</pubDate>
 </item>
 <item>
@@ -96,8 +96,8 @@
 </item>
 <item>
 <title>Sep 4 - 11:00am-11:45am - Playing Rehearsal - MBH</title>
-<link>https://www.brownbearsw.com/cal/mband?Date=2019-09-04;EventID=60393476</link>
-<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?Date=2019-09-04;EventID=60393476</guid>
+<link>https://www.brownbearsw.com/cal/mband?EventID=60393476;Date=2019-09-04</link>
+<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?EventID=60393476;Date=2019-09-04</guid>
 <pubDate>Wed, 04 Sep 2019 11:00:00 GMT</pubDate>
 </item>
 <item>
@@ -108,8 +108,8 @@
 </item>
 <item>
 <title>Sep 4 - 2:00pm-2:45pm - Playing Rehearsal - MBH</title>
-<link>https://www.brownbearsw.com/cal/mband?Date=2019-09-04;EventID=60393482</link>
-<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?Date=2019-09-04;EventID=60393482</guid>
+<link>https://www.brownbearsw.com/cal/mband?EventID=60393482;Date=2019-09-04</link>
+<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?EventID=60393482;Date=2019-09-04</guid>
 <pubDate>Wed, 04 Sep 2019 14:00:00 GMT</pubDate>
 </item>
 <item>
@@ -120,14 +120,14 @@
 </item>
 <item>
 <title>Sep 5 - 7:30pm-9:00pm - MARCHING REHEARSAL</title>
-<link>https://www.brownbearsw.com/cal/mband?EventID=59983927;Date=2019-09-05</link>
-<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?EventID=59983927;Date=2019-09-05</guid>
+<link>https://www.brownbearsw.com/cal/mband?Date=2019-09-05;EventID=59983927</link>
+<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?Date=2019-09-05;EventID=59983927</guid>
 <pubDate>Thu, 05 Sep 2019 19:30:00 GMT</pubDate>
 </item>
 <item>
 <title>Sep 6 - 11:00am-11:45am - Playing Rehearsal - MBH</title>
-<link>https://www.brownbearsw.com/cal/mband?EventID=60393476;Date=2019-09-06</link>
-<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?EventID=60393476;Date=2019-09-06</guid>
+<link>https://www.brownbearsw.com/cal/mband?Date=2019-09-06;EventID=60393476</link>
+<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?Date=2019-09-06;EventID=60393476</guid>
 <pubDate>Fri, 06 Sep 2019 11:00:00 GMT</pubDate>
 </item>
 <item>
@@ -138,8 +138,8 @@
 </item>
 <item>
 <title>Sep 6 - 2:00pm-2:45pm - Playing Rehearsal - MBH</title>
-<link>https://www.brownbearsw.com/cal/mband?EventID=60393482;Date=2019-09-06</link>
-<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?EventID=60393482;Date=2019-09-06</guid>
+<link>https://www.brownbearsw.com/cal/mband?Date=2019-09-06;EventID=60393482</link>
+<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?Date=2019-09-06;EventID=60393482</guid>
 <pubDate>Fri, 06 Sep 2019 14:00:00 GMT</pubDate>
 </item>
 <item>
@@ -156,44 +156,44 @@
 </item>
 <item>
 <title>Sep 7 - 4:00pm - Parade - football walk</title>
-<link>https://www.brownbearsw.com/cal/mband?EventID=60642337;Date=2019-09-07</link>
-<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?EventID=60642337;Date=2019-09-07</guid>
+<link>https://www.brownbearsw.com/cal/mband?Date=2019-09-07;EventID=60642337</link>
+<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?Date=2019-09-07;EventID=60642337</guid>
 <pubDate>Sat, 07 Sep 2019 16:00:00 GMT</pubDate>
 </item>
 <item>
 <title>Sep 7 - 5:30pm - Leave stands for pregame</title>
-<link>https://www.brownbearsw.com/cal/mband?EventID=60642339;Date=2019-09-07</link>
-<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?EventID=60642339;Date=2019-09-07</guid>
+<link>https://www.brownbearsw.com/cal/mband?Date=2019-09-07;EventID=60642339</link>
+<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?Date=2019-09-07;EventID=60642339</guid>
 <pubDate>Sat, 07 Sep 2019 17:30:00 GMT</pubDate>
 </item>
 <item>
 <title>Sep 7 - 6:00pm-10:00pm - SMU vs UNT @ Ford</title>
-<link>https://www.brownbearsw.com/cal/mband?EventID=60642333;Date=2019-09-07</link>
-<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?EventID=60642333;Date=2019-09-07</guid>
+<link>https://www.brownbearsw.com/cal/mband?Date=2019-09-07;EventID=60642333</link>
+<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?Date=2019-09-07;EventID=60642333</guid>
 <pubDate>Sat, 07 Sep 2019 18:00:00 GMT</pubDate>
 </item>
 <item>
 <title>Sep 10 - 2:00pm-2:45pm - Playing Rehearsal - MBH</title>
-<link>https://www.brownbearsw.com/cal/mband?EventID=60393472;Date=2019-09-10</link>
-<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?EventID=60393472;Date=2019-09-10</guid>
+<link>https://www.brownbearsw.com/cal/mband?Date=2019-09-10;EventID=60393472</link>
+<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?Date=2019-09-10;EventID=60393472</guid>
 <pubDate>Tue, 10 Sep 2019 14:00:00 GMT</pubDate>
 </item>
 <item>
 <title>Sep 10 - 7:30pm-9:00pm - MARCHING REHEARSAL</title>
-<link>https://www.brownbearsw.com/cal/mband?Date=2019-09-10;EventID=59983927</link>
-<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?Date=2019-09-10;EventID=59983927</guid>
+<link>https://www.brownbearsw.com/cal/mband?EventID=59983927;Date=2019-09-10</link>
+<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?EventID=59983927;Date=2019-09-10</guid>
 <pubDate>Tue, 10 Sep 2019 19:30:00 GMT</pubDate>
 </item>
 <item>
 <title>Sep 11 - 11:00am-11:45am - Playing Rehearsal - MBH</title>
-<link>https://www.brownbearsw.com/cal/mband?EventID=60393476;Date=2019-09-11</link>
-<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?EventID=60393476;Date=2019-09-11</guid>
+<link>https://www.brownbearsw.com/cal/mband?Date=2019-09-11;EventID=60393476</link>
+<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?Date=2019-09-11;EventID=60393476</guid>
 <pubDate>Wed, 11 Sep 2019 11:00:00 GMT</pubDate>
 </item>
 <item>
 <title>Sep 11 - 1:00pm-1:45pm - Playing Rehearsal - MBH</title>
-<link>https://www.brownbearsw.com/cal/mband?EventID=60393477;Date=2019-09-11</link>
-<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?EventID=60393477;Date=2019-09-11</guid>
+<link>https://www.brownbearsw.com/cal/mband?Date=2019-09-11;EventID=60393477</link>
+<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?Date=2019-09-11;EventID=60393477</guid>
 <pubDate>Wed, 11 Sep 2019 13:00:00 GMT</pubDate>
 </item>
 <item>
@@ -210,20 +210,20 @@
 </item>
 <item>
 <title>Sep 12 - 7:30pm-9:00pm - MARCHING REHEARSAL</title>
-<link>https://www.brownbearsw.com/cal/mband?EventID=59983927;Date=2019-09-12</link>
-<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?EventID=59983927;Date=2019-09-12</guid>
+<link>https://www.brownbearsw.com/cal/mband?Date=2019-09-12;EventID=59983927</link>
+<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?Date=2019-09-12;EventID=59983927</guid>
 <pubDate>Thu, 12 Sep 2019 19:30:00 GMT</pubDate>
 </item>
 <item>
 <title>Sep 13 - 11:00am-11:45am - Playing Rehearsal - MBH</title>
-<link>https://www.brownbearsw.com/cal/mband?Date=2019-09-13;EventID=60393476</link>
-<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?Date=2019-09-13;EventID=60393476</guid>
+<link>https://www.brownbearsw.com/cal/mband?EventID=60393476;Date=2019-09-13</link>
+<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?EventID=60393476;Date=2019-09-13</guid>
 <pubDate>Fri, 13 Sep 2019 11:00:00 GMT</pubDate>
 </item>
 <item>
 <title>Sep 13 - 1:00pm-1:45pm - Playing Rehearsal - MBH</title>
-<link>https://www.brownbearsw.com/cal/mband?Date=2019-09-13;EventID=60393477</link>
-<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?Date=2019-09-13;EventID=60393477</guid>
+<link>https://www.brownbearsw.com/cal/mband?EventID=60393477;Date=2019-09-13</link>
+<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?EventID=60393477;Date=2019-09-13</guid>
 <pubDate>Fri, 13 Sep 2019 13:00:00 GMT</pubDate>
 </item>
 <item>
@@ -234,8 +234,8 @@
 </item>
 <item>
 <title>Sep 14 - 3:00pm - Marching Rehearsal in Ford</title>
-<link>https://www.brownbearsw.com/cal/mband?Date=2019-09-14;EventID=60642334</link>
-<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?Date=2019-09-14;EventID=60642334</guid>
+<link>https://www.brownbearsw.com/cal/mband?EventID=60642334;Date=2019-09-14</link>
+<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?EventID=60642334;Date=2019-09-14</guid>
 <pubDate>Sat, 14 Sep 2019 15:00:00 GMT</pubDate>
 </item>
 <item>
@@ -258,8 +258,8 @@
 </item>
 <item>
 <title>Sep 17 - 2:00pm-2:45pm - Playing Rehearsal - MBH</title>
-<link>https://www.brownbearsw.com/cal/mband?EventID=60393472;Date=2019-09-17</link>
-<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?EventID=60393472;Date=2019-09-17</guid>
+<link>https://www.brownbearsw.com/cal/mband?Date=2019-09-17;EventID=60393472</link>
+<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?Date=2019-09-17;EventID=60393472</guid>
 <pubDate>Tue, 17 Sep 2019 14:00:00 GMT</pubDate>
 </item>
 <item>
@@ -294,8 +294,8 @@
 </item>
 <item>
 <title>Sep 19 - 2:00pm-2:45pm - Playing Rehearsal - MBH</title>
-<link>https://www.brownbearsw.com/cal/mband?EventID=60393472;Date=2019-09-19</link>
-<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?EventID=60393472;Date=2019-09-19</guid>
+<link>https://www.brownbearsw.com/cal/mband?Date=2019-09-19;EventID=60393472</link>
+<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?Date=2019-09-19;EventID=60393472</guid>
 <pubDate>Thu, 19 Sep 2019 14:00:00 GMT</pubDate>
 </item>
 <item>
@@ -306,14 +306,14 @@
 </item>
 <item>
 <title>Sep 20 - 11:00am-11:45am - Playing Rehearsal - MBH</title>
-<link>https://www.brownbearsw.com/cal/mband?Date=2019-09-20;EventID=60393476</link>
-<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?Date=2019-09-20;EventID=60393476</guid>
+<link>https://www.brownbearsw.com/cal/mband?EventID=60393476;Date=2019-09-20</link>
+<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?EventID=60393476;Date=2019-09-20</guid>
 <pubDate>Fri, 20 Sep 2019 11:00:00 GMT</pubDate>
 </item>
 <item>
 <title>Sep 20 - 1:00pm-1:45pm - Playing Rehearsal - MBH</title>
-<link>https://www.brownbearsw.com/cal/mband?Date=2019-09-20;EventID=60393477</link>
-<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?Date=2019-09-20;EventID=60393477</guid>
+<link>https://www.brownbearsw.com/cal/mband?EventID=60393477;Date=2019-09-20</link>
+<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?EventID=60393477;Date=2019-09-20</guid>
 <pubDate>Fri, 20 Sep 2019 13:00:00 GMT</pubDate>
 </item>
 <item>
@@ -324,8 +324,8 @@
 </item>
 <item>
 <title>Sep 21 - SMU at TCU - time TBA</title>
-<link>https://www.brownbearsw.com/cal/mband?EventID=58358022;Date=2019-09-21</link>
-<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?EventID=58358022;Date=2019-09-21</guid>
+<link>https://www.brownbearsw.com/cal/mband?Date=2019-09-21;EventID=58358022</link>
+<guid isPermaLink="true">https://www.brownbearsw.com/cal/mband?Date=2019-09-21;EventID=58358022</guid>
 <pubDate>Sat, 21 Sep 2019 00:00:00 GMT</pubDate>
 </item>
 </channel>
