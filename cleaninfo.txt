@@ -1,0 +1,55 @@
+<title>mband calendar events</title>
+<title>Aug 25 - 5:45pm-6:45pm - Convocation Performance</title>
+<title>Aug 26 - FIRST DAY OF CLASSES</title>
+<title>Aug 27 - 2:00pm-2:45pm - Playing Rehearsal - MBH</title>
+<title>Aug 27 - 7:30pm-9:00pm - MARCHING REHEARSAL</title>
+<title>Aug 28 - 11:00am-11:45am - Playing Rehearsal - MBH</title>
+<title>Aug 28 - 1:00pm-1:45pm - Playing Rehearsal - MBH</title>
+<title>Aug 28 - 2:00pm-2:45pm - Playing Rehearsal - MBH</title>
+<title>Aug 29 - 2:00pm-2:45pm - Playing Rehearsal - MBH</title>
+<title>Aug 29 - 7:30pm-9:00pm - MARCHING REHEARSAL</title>
+<title>Aug 30 - 11:00am-11:45am - Playing Rehearsal - MBH</title>
+<title>Aug 30 - 1:00pm-1:45pm - Playing Rehearsal - MBH</title>
+<title>Aug 30 - 2:00pm-2:45pm - Playing Rehearsal - MBH</title>
+<title>Sep 2 - LABOR DAY HOLIDAY - NO CLASSES</title>
+<title>Sep 3 - 2:00pm-2:45pm - Playing Rehearsal - MBH</title>
+<title>Sep 3 - 7:30pm-9:00pm - MARCHING REHEARSAL</title>
+<title>Sep 4 - 11:00am-11:45am - Playing Rehearsal - MBH</title>
+<title>Sep 4 - 1:00pm-1:45pm - Playing Rehearsal - MBH</title>
+<title>Sep 4 - 2:00pm-2:45pm - Playing Rehearsal - MBH</title>
+<title>Sep 5 - 2:00pm-2:45pm - Playing Rehearsal - MBH</title>
+<title>Sep 5 - 7:30pm-9:00pm - MARCHING REHEARSAL</title>
+<title>Sep 6 - 11:00am-11:45am - Playing Rehearsal - MBH</title>
+<title>Sep 6 - 1:00pm-1:45pm - Playing Rehearsal - MBH</title>
+<title>Sep 6 - 2:00pm-2:45pm - Playing Rehearsal - MBH</title>
+<title>Sep 6 - 5:30pm - Opening ceremony of the indoor performance center, full band.  Time TBA</title>
+<title>Sep 7 - 3:00pm - Marching Rehearsal in Ford</title>
+<title>Sep 7 - 4:00pm - Parade - football walk</title>
+<title>Sep 7 - 5:30pm - Leave stands for pregame</title>
+<title>Sep 7 - 6:00pm-10:00pm - SMU vs UNT @ Ford</title>
+<title>Sep 10 - 2:00pm-2:45pm - Playing Rehearsal - MBH</title>
+<title>Sep 10 - 7:30pm-9:00pm - MARCHING REHEARSAL</title>
+<title>Sep 11 - 11:00am-11:45am - Playing Rehearsal - MBH</title>
+<title>Sep 11 - 1:00pm-1:45pm - Playing Rehearsal - MBH</title>
+<title>Sep 11 - 2:00pm-2:45pm - Playing Rehearsal - MBH</title>
+<title>Sep 12 - 2:00pm-2:45pm - Playing Rehearsal - MBH</title>
+<title>Sep 12 - 7:30pm-9:00pm - MARCHING REHEARSAL</title>
+<title>Sep 13 - 11:00am-11:45am - Playing Rehearsal - MBH</title>
+<title>Sep 13 - 1:00pm-1:45pm - Playing Rehearsal - MBH</title>
+<title>Sep 13 - 2:00pm-2:45pm - Playing Rehearsal - MBH</title>
+<title>Sep 14 - 3:00pm - Marching Rehearsal in Ford</title>
+<title>Sep 14 - 4:00pm - Parade - football walk</title>
+<title>Sep 14 - 5:30pm - Leave stands for pregame</title>
+<title>Sep 14 - 6:00pm-10:00pm - SMU vs. Texas State @ Ford</title>
+<title>Sep 17 - 2:00pm-2:45pm - Playing Rehearsal - MBH</title>
+<title>Sep 17 - 7:30pm-9:00pm - MARCHING REHEARSAL</title>
+<title>Sep 18 - 11:00am-11:45am - Playing Rehearsal - MBH</title>
+<title>Sep 18 - 1:00pm-1:45pm - Playing Rehearsal - MBH</title>
+<title>Sep 18 - 2:00pm-2:45pm - Playing Rehearsal - MBH</title>
+<title>Sep 18 - 6:30pm-9:00pm - Volleyball vs TCU</title>
+<title>Sep 19 - 2:00pm-2:45pm - Playing Rehearsal - MBH</title>
+<title>Sep 19 - 7:30pm-9:00pm - MARCHING REHEARSAL</title>
+<title>Sep 20 - 11:00am-11:45am - Playing Rehearsal - MBH</title>
+<title>Sep 20 - 1:00pm-1:45pm - Playing Rehearsal - MBH</title>
+<title>Sep 20 - 2:00pm-2:45pm - Playing Rehearsal - MBH</title>
+<title>Sep 21 - SMU at TCU - time TBA</title>
